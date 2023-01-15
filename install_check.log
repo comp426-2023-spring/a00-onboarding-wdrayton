@@ -1,0 +1,8 @@
+Install checked: 2023-01-15T12:25:39-05:00
+
+SYSTEM:	Linux wdrayton-pc 5.10.102.1-microsoft-standard-WSL2 #1 SMP Wed Mar 2 00:30:59 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.25.1
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.1 (2018 May 18, compiled Apr 15 2020 06:40:31)
+CURL:	[/usr/bin/curl] curl 7.68.0 (x86_64-pc-linux-gnu) libcurl/7.68.0 OpenSSL/1.1.1f zlib/1.2.11 brotli/1.0.7 libidn2/2.2.0 libpsl/0.21.0 (+libidn2/2.2.0) libssh/0.9.3/openssl/zlib nghttp2/1.40.0 librtmp/2.3
+NODE:	[/home/wdrayton/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
